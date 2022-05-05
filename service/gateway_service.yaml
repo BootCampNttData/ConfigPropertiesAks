@@ -54,7 +54,7 @@ spring:
           uri: lb://debitcard
           predicates:
             - Path=/debitcard/**
-        - id: yanky
-          uri: lb://yanky
+        - id: yanki
+          uri: lb://yanki
           predicates:
-            - Path=/yanky/**
+            - Path=/yanki/**
