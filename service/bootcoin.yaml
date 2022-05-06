@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://dbuser:Passw0rd11235@cluster0.abvys.mongodb.net/YankiDB?retryWrites=true&w=majority
+      uri: mongodb+srv://dbuser:Passw0rd11235@cluster0.abvys.mongodb.net/BootCoinDB?retryWrites=true&w=majority
 
 eureka:
   instance:
